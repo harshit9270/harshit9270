@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with NodeJS.
 - 📫 Reach me at: mail me at [harshitsharma9270@gmail.com](mailto:harshitsharma9270@gmail.com)
 
-![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=me-harshit&show_icons=true)
+![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=me-harshit&show_icons=true) 
 
 
 
