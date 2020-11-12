@@ -1,5 +1,5 @@
 # Harshit Sharma
-[![Linkedin Badge](https://img.shields.io/badge/me-harshit-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-sharma-945i/)
+[![Linkedin Badge](https://img.shields.io/badge/me-harshit-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/me-harshit/)
 [![Gmail Badge](https://img.shields.io/badge/harshitsharma9270@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:harshitsharma9270@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=Web&logoColor=white)](https://www.meharshit.xyz/)
 [![Profile Badge](https://komarev.com/ghpvc/?username=me-harshit)](https://www.meharshit.xyz/)
