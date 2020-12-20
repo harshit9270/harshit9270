@@ -9,7 +9,7 @@
 
 <br/>
 <img align="left" alt="GIF" src="https://bit.ly/2LV8zxN" width="100px" />         
-I'm Harshit Sharma,currently pursuing B.Tech in Information Technology specialization. I adore clean and useful websites and also love to create some. 
+I'm Harshit Sharma, currently pursuing B.Tech in Information Technology specialization. I adore clean and useful websites and also love to create some. I am skilled in Full-stack web development (MERN stack).
 
 <br/>
 <br/>
