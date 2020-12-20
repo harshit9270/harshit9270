@@ -23,6 +23,8 @@ I'm Harshit Sharma, currently pursuing B.Tech in Information Technology speciali
 - 🤔 I’m looking for help with NodeJS.
 - 📫 Reach me at: mail me at [harshitsharma9270@gmail.com](mailto:harshitsharma9270@gmail.com)
 
+<br/>
+<br/>
 
 ## Tech Stack 
 <p align="left">
@@ -38,6 +40,9 @@ I'm Harshit Sharma, currently pursuing B.Tech in Information Technology speciali
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
 </p>
+
+<br/>
+<br/>
 
 ## 🙂 Latest Projects
 - ✨ Heckfree :https://heckfree.herokuapp.com/
