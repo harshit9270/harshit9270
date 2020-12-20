@@ -8,7 +8,10 @@
 [![Profile Badge](https://komarev.com/ghpvc/?&style=for-the-badge&username=me-harshit)](https://www.meharshit.xyz/)
 
 <img align="left" alt="GIF" src="https://bit.ly/2LV8zxN" width="100px" />         
-##### I'm Harshit Sharma,currently pursuing B.Tech in Information Technology specialization. I adore clean and useful websites and also love to create some. 
+I'm Harshit Sharma,currently pursuing B.Tech in Information Technology specialization. I adore clean and useful websites and also love to create some. 
+
+<br/>
+<br/>
 <img align="right" alt="GIF" src="https://bit.ly/3h4i1uc" width="400px" />
 
 ## 🧐 Talking about Personal Stuffs:
