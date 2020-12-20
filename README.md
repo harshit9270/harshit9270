@@ -1,14 +1,18 @@
 # Harshit Sharma
-[![Linkedin Badge](https://img.shields.io/badge/me-harshit-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/me-harshit/)
-[![Gmail Badge](https://img.shields.io/badge/harshitsharma9270@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:harshitsharma9270@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=Web&logoColor=white)](https://www.meharshit.xyz/)
-[![Profile Badge](https://komarev.com/ghpvc/?username=me-harshit)](https://www.meharshit.xyz/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-harshit/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-%6e6e6e.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsharma9270@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-30302f?style=for-the-badge&logo=globe&logoColor=white)](https://www.meharshit.xyz/)
+[![Portfolio Badge](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/meHarshitSh)
+<br/>
+<br/>
+[![Profile Badge](https://komarev.com/ghpvc/?&style=for-the-badge&username=me-harshit)](https://www.meharshit.xyz/)
 
+<img align="left" alt="GIF" src="https://bit.ly/2LV8zxN" width="400px" />
 ## Hi there 👋,           
 ##### I'm Harshit Sharma,currently pursuing B.Tech in Information Technology specialization. I adore clean and useful websites and also love to create some. 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://bit.ly/3h4i1uc" width="400px" />
 
-## 🧐 About
+## 🧐 Talking about Personal Stuffs:
 - 🏄‍ Web Developer (Full Stack Developer)
 - 🌱 I’m currently learning ReactJS.
 - 🤔 I’m looking for help with NodeJS.
@@ -32,11 +36,20 @@
 
 ## 🙂 Latest Projects
 - ✨ Heckfree :https://heckfree.herokuapp.com/
+- ✨ QuizTown : https://quiztown.herokuapp.com/
 - ✨ Iplheat : https://iplheat.herokuapp.com/
 - ✨ Jssconnect : https://jssconnect.herokuapp.com/
 - ✨ Jsswire : https://jsswire.herokuapp.com/
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=me-harshit&show_icons=true) 
+<img src="https://github-readme-stats.vercel.app/api?username=me-harshit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-![Harshit's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=me-harshit)
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-harshit&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
