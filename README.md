@@ -12,6 +12,8 @@ I'm Harshit Sharma,currently pursuing B.Tech in Information Technology specializ
 
 <br/>
 <br/>
+<br/>
+<br/>
 <img align="right" alt="GIF" src="https://bit.ly/3h4i1uc" width="400px" />
 
 ## 🧐 Talking about Personal Stuffs:
