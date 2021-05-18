@@ -1,11 +1,11 @@
 # Harshit Sharma
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-harshit/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit9270/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-%6e6e6e.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsharma9270@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-30302f?style=for-the-badge&logo=globe&logoColor=white)](https://www.meharshit.xyz/)
-[![Portfolio Badge](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/meHarshitSh)
+[![Portfolio Badge](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/harshit9270)
 <br/>
 <br/>
-[![Profile Badge](https://komarev.com/ghpvc/?&style=for-the-badge&username=me-harshit)](https://www.meharshit.xyz/)
+[![Profile Badge](https://komarev.com/ghpvc/?&style=for-the-badge&username=harshit9270)](https://www.meharshit.xyz/)
 
 <br/>
 <img align="left" alt="GIF" src="https://bit.ly/2LV8zxN" width="100px" />         
@@ -54,11 +54,11 @@ I'm Harshit Sharma, currently pursuing B.Tech in Information Technology speciali
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=me-harshit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshit9270&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-harshit&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9270&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
