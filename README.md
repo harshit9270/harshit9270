@@ -15,22 +15,22 @@
 
 - 🤝 I’m looking for help with **problem solving**
 
-- 👨‍💻 All of my projects are available at [https://harshit9270.xyz](https://harshit9270.xyz)
+- 👨‍💻 All of my projects are available at [https://harshit9270.xyz](harshit9270.xyz)
 
-- 📝 I regularly write articles on [https://medium.com/@me-harshit](https://medium.com/@me-harshit)
+- 📝 I regularly write articles on [https://harshit9270.medium.com/](harshit9270.medium.com)
 
 - 💬 Ask me about **javascript bugs**
 
 - 📫 How to reach me **harshit9270@gmail.com**
 
-- 📄 Know about my experiences [https://harshit9270.xyz/Harshit's%20Resume.pdf](https://harshit9270.xyz/Harshit's%20Resume.pdf)
+- 📄 Know about my experiences [https://harshit9270.xyz/Harshit's%20Resume.pdf](Harshit's Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit9270" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit9270" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14965172/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14965172/harshit9270" height="30" width="40" /></a>
-<a href="https://medium.com/@me-harshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@me-harshit" height="30" width="40" /></a>
+<a href="https://harshit9270.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshit9270" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshit9270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit9270" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit9270" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harshit9270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshit9270" height="30" width="40" /></a>
