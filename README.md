@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit9270&label=Profile%20views&color=0e75b6&style=flat" alt="harshit9270" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshit9270" target="blank"><img src="https://img.shields.io/twitter/follow/harshit9270?logo=twitter&style=for-the-badge" alt="harshit9270" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit9270" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit9270" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14965172/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14965172/harshit9270" height="30" width="40" /></a>
+<a href="https://harshit9270.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshit9270" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshit9270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit9270" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit9270" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/harshit9270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshit9270" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit9270" height="30" width="40" /></a>
+</p>
 
  <p align="center">
 <img  align = "center" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="70%" alt="harshit9270"/>
@@ -25,17 +35,6 @@
 
 - 📄 Know about my experiences [Harshit's Resume](https://harshit9270.xyz/Harshit's%20Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit9270" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit9270" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14965172/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14965172/harshit9270" height="30" width="40" /></a>
-<a href="https://harshit9270.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshit9270" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit9270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit9270" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshit9270" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshit9270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshit9270" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshit9270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit9270" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
