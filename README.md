@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **harshit9270@gmail.com**
 
-- 📄 Know about my experiences [https://harshit9270.xyz/Harshit's%20Resume.pdf](Harshit's Resume)
+- 📄 Know about my experiences [Harshit's Resume](https://harshit9270.xyz/Harshit's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,10 +57,10 @@
 <br/>
 
 ## 🙂 Latest Projects
-- ✨ Jssconnect : https://jssconnect.herokuapp.com/
-- ✨ QuizTown : https://quiztown.herokuapp.com/
-- ✨ Heckfree :https://heckfree.herokuapp.com/
-- ✨ Iplheat : https://iplheat.herokuapp.com/
+- ✨ [Jssconnect](https://jssconnect.herokuapp.com/)
+- ✨ [QuizTown](https://quiztown.herokuapp.com/)
+- ✨ [Heckfree](https://heckfree.herokuapp.com/)
+- ✨ [Iplheat](https://iplheat.herokuapp.com/)
 
 
 <table><tr><td valign="top" width="50%">
