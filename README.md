@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **problem solving**
 
-- 👨‍💻 All of my projects are available at [https://harshit9270.xyz](harshit9270.xyz)
+- 👨‍💻 All of my projects are available at [harshit9270.xyz](https://harshit9270.xyz)
 
-- 📝 I regularly write articles on [https://harshit9270.medium.com/](harshit9270.medium.com)
+- 📝 I regularly write articles on [harshit9270.medium.com](https://harshit9270.medium.com/)
 
 - 💬 Ask me about **javascript bugs**
 
