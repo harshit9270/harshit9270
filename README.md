@@ -46,11 +46,16 @@
 - ✨ Iplheat : https://iplheat.herokuapp.com/
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit9270&show_icons=true&locale=en&layout=compact" alt="harshit9270" /></p>
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=harshit9270&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit9270&show_icons=true&locale=en" alt="harshit9270" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9270&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit9270&" alt="harshit9270" /></p>
 
