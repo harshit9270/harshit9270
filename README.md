@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **problem solving**
 
-- 👨‍💻 All of my projects are available at [harshit9270.xyz](https://harshit9270.xyz)
+- 👨‍💻 All of my projects are available at [harshit9270.me](https://harshit9270.me)
 
 - 📝 I regularly write articles on [harshit9270.medium.com](https://harshit9270.medium.com/)
 
@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **harshit9270@gmail.com**
 
-- 📄 Know about my experiences [Harshit's Resume](https://harshit9270.xyz/Harshit's%20Resume.pdf)
+- 📄 Know about my experiences [Harshit's Resume](https://harshit9270.me/Harshit's%20Resume.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
