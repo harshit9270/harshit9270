@@ -19,17 +19,15 @@
 </p>
 -->
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **AI & ML Techniques**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **problem solving**
 
 - 👨‍💻 All of my projects are available at [harshit9270.netlify.app](https://harshit9270.netlify.app)
 
 - 📝 I regularly write articles on [harshit9270.medium.com](https://harshit9270.medium.com/)
 
-- 💬 Ask me about **javascript bugs**
+- 💬 Ask me about **javascript & python bugs**
 
 - 📫 How to reach me **harshit9270@gmail.com**
 
